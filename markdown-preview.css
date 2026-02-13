@@ -1,2 +1,3 @@
-  body { max-width: 900px; margin: 0 auto; padding: 2rem; }
-  pre, code { font-family: "IosevkaTerm Slab NFM", monospace; }
+body { max-width: 900px; margin: 0 auto; padding: 2rem; }
+pre, code { font-family: "IosevkaTerm Slab NFM", monospace; }
+table { display: block; overflow-x: auto; white-space: nowrap; }
